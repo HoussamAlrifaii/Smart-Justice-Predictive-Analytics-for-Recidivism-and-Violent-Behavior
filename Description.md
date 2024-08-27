@@ -3,6 +3,9 @@
 #Smart Justice: Predictive Analytics for Recidivism and Violent Behavior
 ## Introduction 
 Imagine being judged not just by your past actions but by an algorithm predicting your future behavior. This is the reality in many courtrooms today, where a tool known as COMPAS(Correctional Offender Management Profiling for Alternative Sanctions) helps determine whether someone is likely to re-offend. Used in critical decisions like bail, sentencing, and parole, COMPAS plays a significant role in shaping the lives of thousands in the United States of America. But how does it work, and what does its influence mean for justice and fairness? Let's dive into the world of COMPAS to understand its impact and the controversies surrounding it.
+##Contributers
+Project Leader: Houssam Saleh Alrifaii 
+Contributers: Mariana Saleh Alrifaii, Mohammad Kahwaji, Amir Fenina, Umar Galadima
 
 
 ![](docs/prison.webp)

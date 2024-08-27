@@ -1,0 +1,1 @@
+This project aims to develop machine learning models to predict the likelihood of recidivism (reoffending) and assess violent risk among individuals based on demographic data and other relevant factors

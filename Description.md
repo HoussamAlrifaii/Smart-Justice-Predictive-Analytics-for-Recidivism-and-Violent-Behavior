@@ -6,7 +6,7 @@ Imagine being judged not just by your past actions but by an algorithm predictin
 
 ## Contributers
 Project Leader: Houssam Saleh Alrifaii 
-Contributers: Mariana Saleh Alrifaii, Mohammad Kahwaji, Amir Fenina, Umar Galadima
+Team Members: Mariana Saleh Alrifaii, Mohammad Kahwaji, Amir Fenina, Umar Galadima
 
 
 ![](docs/prison.webp)

@@ -11,7 +11,7 @@ Team Members: Mariana Saleh Alrifaii, Mohammad Kahwaji, Amir Fenina, Umar Galadi
 
 ![](docs/prison.webp)
 ## Project overview 
-The Smart Justice project is a data analysis project focused on predicting recidivism within the criminal justice system. Using a comprehensive dataset,With a total of 11,291 rows and 37 columns, this project seeks to explores patterns in re-offending, assesses risk factors, and investigates potential biases in risk assessment tools like COMPAS. The insights generated aim to support fair and informed decision-making in areas such as pretrial release, sentencing, and parole.
+The Smart Justice project is a data analysis project focused on predicting recidivism within the criminal justice system. Using a comprehensive dataset,With more than 18000 rows and 40 columns, this project seeks to explores patterns in re-offending, assesses risk factors, and investigates potential biases in risk assessment tools like COMPAS. The insights generated aim to support fair and informed decision-making in areas such as pretrial release, sentencing, and parole.
 ## Features
 ### .Data Preprocessing:
 Converts and cleans data related to offenders, including handling dates, categorizing age groups, and managing missing values.
